@@ -1,0 +1,65 @@
+h1 {
+    display: flex;
+    justify-content: center;
+    font-family: monospace;
+    margin-bottom: 70px;
+    font-size: 40px;
+}
+
+body {
+    background: url('image/skyblue-1.gif');
+    background-size: cover;
+    }
+
+form {
+    display: flex;
+    justify-content: center;
+    font-family: monospace;
+    font-size: 16px;
+}
+
+input {
+    display: flex;
+    width: 65%;
+    font-family: monospace;
+    font-size: 16px;
+    padding: 8px 5px;
+    text-align: center;
+}
+
+.row {
+    display: flex;
+    justify-content: center;
+}
+
+.column {
+    border-style: dotted;
+    width: 25%;
+    padding: 10px;
+    margin: 5px;
+}
+
+
+
+button {
+    background-color: skyblue;
+    border: none;
+    padding: 15px 30px;
+    font-size: 16px;
+    color: white;
+    border-radius: 4px;
+    font-family: monospace;
+   
+}
+
+.formInput {
+    display: flex;
+    justify-content: center;
+    padding-top: 16px;
+}
+
+h2 {
+    display: flex;
+    justify-content: center;
+    font-family: monospace;
+}
